@@ -18,3 +18,5 @@ bun run main.js
 
 # Commands
 ![CMDS](https://cdn.discordapp.com/attachments/1208476925446586421/1225268786966298694/image.png?ex=6620837b&is=660e0e7b&hm=93e5537d252cd992654d5f3481726a179c031a43dd39476779c04450e1985354&)
+
+# Dont forget to star this repo :D

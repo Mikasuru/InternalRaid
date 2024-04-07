@@ -47,7 +47,7 @@ client.once(Events.ClientReady, readyClient => {
     ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗██║╚██╗██║██╔══██║██║         ██╔══██╗██╔══██║██║██║  ██║
     ██║██║ ╚████║   ██║   ███████╗██║  ██║██║ ╚████║██║  ██║███████╗    ██║  ██║██║  ██║██║██████╔╝
     ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ 
-    > InternalRaid - v1.0.0                                                                                            
+    > InternalRaid - v1.0.1                                                                                            
     > BOT: ${readyClient.user.tag}
     > Invite "${readyClient.user.username}" Link: https://discord.com/oauth2/authorize?client_id=${readyClient.user.id}&scope=bot+applications.commands&permissions=8
     ==================================COMMAND LIST==================================

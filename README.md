@@ -18,6 +18,7 @@ A Discord.js raid bot comes with DiscordJS v14 and is very easy to use.
 
 # Updates
 - We've made a change from controlling the bot on the target server to placing it on the target server, allowing you to use commands from any server. This adjustment aims to make the raiding process less detectable.
+- And now, We're open the source!
 
 # Install
 With [NPM](https://www.npmjs.com/)

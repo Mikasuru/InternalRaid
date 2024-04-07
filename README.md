@@ -7,7 +7,6 @@ A Discord.js raid bot comes with DiscordJS v14 and is very easy to use.
 (⭐) - Support the user token
 (🗨️) - DM to all user in discord server
 (⚠️) - Panic mode (Like make the server owner panic)
-(🎮) - Slash command or maybe control the bot via console
 ```
 
 # Features
@@ -16,6 +15,9 @@ A Discord.js raid bot comes with DiscordJS v14 and is very easy to use.
 - Delete all Channel/Roles
 - Ban everyone
 ```
+
+# Updates
+- We've made a change from controlling the bot on the target server to placing it on the target server, allowing you to use commands from any server. This adjustment aims to make the raiding process less detectable.
 
 # Install
 With [NPM](https://www.npmjs.com/)

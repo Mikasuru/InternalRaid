@@ -1,17 +1,3 @@
 {
-
-    "token": "MTE0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGOB7vLlTuI-FaRLIG8",
-
-    "numberChannel": 100,
-    "channelName": "Hello",
-
-    "pingNumber": 500,
-    "pingMessage": "GET LOL",
-
-    "TargetServer": "1225xxxxxxxxxxxxx81918",
-
-    "newChannelName": "new-channel",
-
-    "DeleteMsg": false
-
+    "token": "MTE0MTQxMTUzMDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxNW7wYCMszOgY8EiitZ8A8lNODU"
 }

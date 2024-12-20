@@ -1,11 +1,10 @@
 {
-    "token": "MTE0MTQxMTUzxxxxxxxxxxxc-QyH6K8ybIYspesyFOo4sGrUl_OH9YoE",
-
+    "token": "MTE0MTQxMTUzMDc2NDcxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxMo7VCQ3a4eG-rICUiL1jSmkCCaPI9o",
     "GeneralSettings": {
         "IgnoreCooldown": false,
+        "AllowEveryoneToUse": true,
         "OwnerId": "591837095954350092"
     },
-
     "CommandSettings": {
         "commandPrefix": ".",
         "MassArgs": "mass",
@@ -16,19 +15,20 @@
         "MassRolesArgs": "massr",
         "WebhookArgs": "wh",
         "InviteArgs": "inv",
-        "GetInviteArgs": "getinv"
+        "GetInviteArgs": "getinv",
+        "HelpArgs": "help",
+        "ConfigArgs": "config",
+        "EditConfigArgs": "editconfig",
+        "ExampleArgs": "example"
     },
-
     "RoleSettings": {
         "roleName": "kukuri",
         "roleCreateAmount": 100
     },
-
     "WebhookSettings": {
-        "webhookName": "Kukuri Client",
+        "webhookName": "Kukuri",
         "webhookMessage": "@everyone Webhook!"
     },
-
     "ChannelSettings": {
         "mentionNumber": 100,
         "mentionMessage": "@everyone Hey!",
@@ -36,5 +36,4 @@
         "channelName": "kukuri-client",
         "channelAmount": 10
     }
-
 }

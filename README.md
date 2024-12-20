@@ -1,38 +1,38 @@
-# DESCRIPTION UPDATE LATER
-# InternalRaid
-A Discord.js raid bot comes with DiscordJS v14 and is very easy to use.
-![Main](https://media.discordapp.net/attachments/1208476925446586421/1225269530218070056/Screenshot_2024-04-04_092225.png?ex=6620842c&is=660e0f2c&hm=20d901649ac4f0df573dbc8e28ac3bc9e4c7e6f13b1668b77d3e2e1f70ec956a&=&format=webp&quality=lossless&width=1920&height=610)
+<h1 align="center">Internal Raid | Module</h1>
+<p align="center">A discord.js v14 Raiding bot with easily control.</p>
+<p align="center">This is a module from Kukuri Client.</p>
 
-# Features
-```
-- Create a Mass channel and spam it
-- Delete all Channel/Roles
-- Ban everyone
-```
+<hr>
 
-# Updates
-- We've made the first-time run more user-friendly for new users who don't know how to use InternalRaid.
-- We've added Normal and Silence modes.
-- We've made many improvements.
+<h2>Features</h2>
+<ul>
+    <li>Loop create a channel and keep spamming it</li>
+    <li>Delete all channels and roles</li>
+    <li>Ban everyone in the server</li>
+    <li>Grant admin permission in target server</li>
+    <li>Create a number of roles</li>
+    <li>Webhook spam (Similar to Loop create a channel and keep spamming it)</li>
+    <li>Invite bot to the target server</li>
+    <li>Get Invite from the target server</li>
+    <li>Better help command</li>
+    <li>See config through commands</li>
+    <li>Edit config through commands</li>
+</ul>
 
-# Install
-With [NPM](https://www.npmjs.com/)
-```
-npm install
-node start.js
-```
-If it doesn't work then try with [BUN](https://bun.sh/)
-```
-bun i
-bun add discord.js@Latest
-bun run start.js
-```
-**Or if you're lazy try to run with Install.bat**
+<p>You can control the whole bot only from <code>config.json</code></p>
 
-# Frist time use?
-- Open the "FristTimeRUN.bat"
+<hr>
 
-# Commands
-![CMDS](https://cdn.discordapp.com/attachments/1208476925446586421/1225268786966298694/image.png?ex=6620837b&is=660e0e7b&hm=93e5537d252cd992654d5f3481726a179c031a43dd39476779c04450e1985354&)
+<h2>Install</h2>
+<p>With <a href="https://www.npmjs.com/" target="_blank"><strong>NodeJS</strong></a></p>
+<pre><code>npm install
+node Main
+</code></pre>
 
-# Dont forget to star this repo :D
+<p><strong>Or if you're lazy, try to run with <code>Start.bat</code></strong></p>
+
+<hr>
+
+<h2>Commands</h2>
+<p>Use the following command to see the available commands:</p>
+<pre><code>&lt;prefix&gt;&lt;help arguments&gt;</code> | Default: .help</pre>

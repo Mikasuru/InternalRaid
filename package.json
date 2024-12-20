@@ -1,14 +1,7 @@
 {
-  "name": "internalraid",
-  "module": "main.js",
-  "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
+  "version": "1.0.3",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.3"
   }
 }

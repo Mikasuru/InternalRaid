@@ -3,11 +3,15 @@
     "GeneralSettings": {
         "IgnoreCooldown": false,
         "AllowEveryoneToUse": true,
-        "OwnerId": "591837095954350092"
+        "OwnerId": "591837095954350092",
+        "ShowStatus": true,
+        "StatusMessage": "Kukuri",
+        "StatusInfo": "online"
     },
     "CommandSettings": {
         "commandPrefix": ".",
         "MassArgs": "mass",
+        "Mass2Args": "mass2",
         "RolesArgs": "delr",
         "ChannelArgs": "delc",
         "BanArgs": "banall",
@@ -19,7 +23,16 @@
         "HelpArgs": "help",
         "ConfigArgs": "config",
         "EditConfigArgs": "editconfig",
+        "SpamArgs": "spam",
+        "DMAllArgs": "dm",
         "ExampleArgs": "example"
+    },
+    "DMSpamSettings": {
+        "DMMessage": "hi"
+    },
+    "SpamSettings": {
+        "messageCount": 50,
+        "message": "get spam"
     },
     "RoleSettings": {
         "roleName": "kukuri",

